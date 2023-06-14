@@ -13,6 +13,8 @@ git branch -d branche ==> supprimer la branche
 git branch -M main
 git push -u origin main
 
+git remote remove (name branche)
+
 
 ### github to git
 git push
