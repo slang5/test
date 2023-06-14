@@ -5,9 +5,13 @@ git commit -m "text"
 git branch ==> list 
 git branch "name" ==> nouvelle branche
 git swith "name"==> changer de branche
+git merge name ==> update le fichier courant avec les données de la branche spécifiée
+git branch -d branche ==> supprimer la branche
 
-
-
+### git to github
 (pour choisir repo de github) ==> git remote add (name (origin ou autre)) url du repo
 git branch -M main
 git push -u origin main
+
+
+### github to git
