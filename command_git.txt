@@ -1,0 +1,13 @@
+git status 
+git add --all
+git commit -m "text"
+
+git branch ==> list 
+git branch "name" ==> nouvelle branche
+git swith "name"==> changer de branche
+
+
+
+(pour choisir repo de github) ==> git remote add (name (origin ou autre)) url du repo
+git branch -M main
+git push -u origin main
