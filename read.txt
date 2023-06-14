@@ -7,3 +7,7 @@ Des nouveaux trucs à lire depuis nouvelle branche
 
 
 çca c'est le changement pour verifier que je sais faire un truc tout seul
+
+
+
+et donc la je fais de github à git (local)
